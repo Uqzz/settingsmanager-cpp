@@ -1,5 +1,5 @@
 ## Settings Manager
-Simple settings/configs manager written in c++.
+Simple settings/configs manager class written in c++.
 
 ### Building
 ```
