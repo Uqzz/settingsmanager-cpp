@@ -1,5 +1,5 @@
 ## Settings Manager
-Simple class for managing your app settings.
+Simple settings/configs manager written in c++.
 
 ### Building
 ```
